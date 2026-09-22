@@ -1,1 +1,1 @@
-# LAB-1-Setup-DB-Connection-Navigation-Dashboard
+LAB 2 — Client Management (Add + List + Edit)
